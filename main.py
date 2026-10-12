@@ -1,5 +1,5 @@
 def saludar(nombre):
-    return "Hola " + nombre
+    return "Que tal " + nombre
 
 print(saludar("Ana"))
 print(saludar("Lu"))
